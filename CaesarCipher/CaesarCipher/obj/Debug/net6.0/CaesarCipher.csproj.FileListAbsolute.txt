@@ -1,0 +1,15 @@
+F:\ETC\Portfolio Stuff\CaesarCipher\CaesarCipher\bin\Debug\net6.0\CaesarCipher.exe
+F:\ETC\Portfolio Stuff\CaesarCipher\CaesarCipher\bin\Debug\net6.0\CaesarCipher.deps.json
+F:\ETC\Portfolio Stuff\CaesarCipher\CaesarCipher\bin\Debug\net6.0\CaesarCipher.runtimeconfig.json
+F:\ETC\Portfolio Stuff\CaesarCipher\CaesarCipher\bin\Debug\net6.0\CaesarCipher.dll
+F:\ETC\Portfolio Stuff\CaesarCipher\CaesarCipher\bin\Debug\net6.0\CaesarCipher.pdb
+F:\ETC\Portfolio Stuff\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.csproj.AssemblyReference.cache
+F:\ETC\Portfolio Stuff\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+F:\ETC\Portfolio Stuff\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.AssemblyInfoInputs.cache
+F:\ETC\Portfolio Stuff\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.AssemblyInfo.cs
+F:\ETC\Portfolio Stuff\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.csproj.CoreCompileInputs.cache
+F:\ETC\Portfolio Stuff\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.dll
+F:\ETC\Portfolio Stuff\CaesarCipher\CaesarCipher\obj\Debug\net6.0\refint\CaesarCipher.dll
+F:\ETC\Portfolio Stuff\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.pdb
+F:\ETC\Portfolio Stuff\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.genruntimeconfig.cache
+F:\ETC\Portfolio Stuff\CaesarCipher\CaesarCipher\obj\Debug\net6.0\ref\CaesarCipher.dll

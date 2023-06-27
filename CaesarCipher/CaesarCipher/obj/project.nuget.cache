@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OCUnBFamQRpbNKMkVhPZYdEeXr4lAgGmtiphDXyUg13BpVZ49ET+J7m7CqNp48AulSXpJ4SFnNqZoOBXV0xvPA==",
+  "success": true,
+  "projectFilePath": "F:\\ETC\\Portfolio Stuff\\CaesarCipher\\CaesarCipher\\CaesarCipher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nvill\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\nvill\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\nvill\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\nvill\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
